@@ -10,7 +10,4 @@ built with plain HTML and CSS as an introduction to web fundamentals.
 - HTML5
 - CSS3
 
-## Note
 
-These are early coursework, kept here as a record of where the front-end fundamentals
-started — not part of the active portfolio projects.
