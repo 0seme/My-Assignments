@@ -10,4 +10,3 @@ built with plain HTML and CSS as an introduction to web fundamentals.
 - HTML5
 - CSS3
 
-
